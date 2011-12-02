@@ -1,0 +1,138 @@
+body {
+	scrollbar-base-color: #000000;
+	scrollbar-arrow-color: #FFFFFF;
+	font-family: Arial, Helvetica, Verdana, MS Sans Serif, Tahoma;
+	font-size: 11px;
+	color: #000000;
+}
+A:link, A:visited, A:active {
+	color: #FF0000;
+	text-decoration:none;
+	font-size: 11px;
+	font-weight: Bold;
+	font-family: Arial;
+}
+A:hover {
+	color: #FF0000;
+	text-decoration:underline;
+	font-size: 11px;
+	font-weight: Bold;
+	font-family: Arial;
+}
+table {
+	color: #000000;
+	font-size: 11px;
+	font-family: Arial;
+}
+table.wide {
+	border: 1px solid #111111;
+	background-color: #FFFFFF;
+	width: 100%;
+}
+table.parent {
+    border: 1px solid #111111;
+    background-color: #FFFFFF;
+    width: 100%;
+}
+table.child {
+    border: 1px solid #111111;
+    background-color: #FFFFFF;
+    width: 100%;
+}
+table.box {
+	border: 1px solid #111111;
+	background-color: #FFFFFF;
+}
+table.newparent {
+    border: 1px solid #111111;
+    background-color: #999999;
+    width: 100%;
+}
+table.newchild {
+    border: 1px solid #111111;
+    background-color: #999999;
+    width: 100%;
+}
+table.error {
+    border: 1px solid #111111;
+    background-color: #FF0000;
+    width: 100%;
+}
+td.one {
+	background-color: #EEF2F7;
+	font-family: Arial;
+	font-size: 12px;
+    white-space: pre;
+}
+td.two {
+	background-color: #DEE2E7;
+	font-family: Arial;
+	font-size: 12px;
+}
+td.three {
+	color: #FFFFFF;
+	background-color: #557FAA;
+	font-family: Arial;
+	font-size: 12px;
+	font-style: italic;
+}
+td.four {
+    color: #FFFFFF;
+    background-color: #334455;
+    font-family: Arial;
+    font-size: 12px;
+    font-style: normal;
+}
+th {
+	color: #FFFFFF;
+	background-color: #000000;
+	font-family: Arial;
+	font-size: 11px;
+}
+td.cat {
+	color: #000000;
+	background-color: #9FBCE3;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+td.newcat {
+    color: #FFFFFF;
+    background-color: #FF0000;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+textarea {
+	border-right: #9FBCE3 1px solid;
+    border-top: #9FBCE3 1px solid;
+	border-left: #9FBCE3 1px solid;
+    border-bottom: #9FBCE3 1px solid;
+    font-weight: normal;
+    font-size: 12px;
+    font-family: Arial;
+    color: #000000;
+    background-color: #FFFFFF;
+}
+input {
+	border-right: #9FBCE3 1px solid;
+    border-top: #9FBCE3 1px solid;
+	border-left: #9FBCE3 1px solid;
+    border-bottom: #9FBCE3 1px solid;
+    font-weight: bold;
+    font-size: 11px;
+    font-family: Arial;
+    color: #000000;
+    background-color: #FFFFFF;
+}
+select {
+	border-right: #9FBCE3 1px solid;
+    border-top: #9FBCE3 1px solid;
+	border-left: #9FBCE3 1px solid;
+    border-bottom: #9FBCE3 1px solid;
+    font-weight: bold;
+    font-size: 11px;
+    font-family: Arial;
+    color: #000000;
+    background-color: #FFFFFF;
+}
